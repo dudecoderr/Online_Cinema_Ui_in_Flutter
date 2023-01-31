@@ -245,7 +245,7 @@ Widget buildImage(String urlImage, int index) => Container(
         ),
         child: ClipRRect(
             borderRadius: BorderRadius.circular(15),
-            child: Image.asset(urlImage, fit: BoxFit.fill)),
+            child: Image.asset(urlImage, fit: BoxFit.cover)),
       ),
     );
 
