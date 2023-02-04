@@ -93,7 +93,7 @@ class Category extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          "Cody Fisher",
+                          name,
                           style: TextStyle(
                             color: Colors.white,
                             fontSize: 18.sp,

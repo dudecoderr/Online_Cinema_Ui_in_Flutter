@@ -24,16 +24,14 @@ class _BottomNavPageState extends State<BottomNavPage> {
     return Align(
       alignment: Alignment.bottomCenter,
       child: Padding(
-        padding: const EdgeInsets.symmetric(horizontal: 20.0,vertical: 20.0),
+        padding: const EdgeInsets.symmetric(horizontal: 20.0, vertical: 20.0),
         child: Material(
-
           elevation: 10,
           borderRadius: BorderRadius.circular(20),
           color: Color(0xFF382c3e).withOpacity(0.95),
           child: Container(
             height: 65,
             alignment: Alignment.center,
-
             width: double.infinity,
             child: ListView.builder(
               shrinkWrap: true,
