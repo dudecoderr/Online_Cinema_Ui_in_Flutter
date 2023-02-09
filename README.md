@@ -12,7 +12,7 @@ Note: _**last updated january 2023 configured project to latest flutter version 
 
 
 <p align="center">
-<img src="assets/Readme.jpg" width="200%">
+<img src="https://raw.githubusercontent.com/dudecoderr/Online_Cinema_Ui_in_Flutter/main/assets/Readme.jpg" width="200%">
 </p>
 
 **Packages used:**
